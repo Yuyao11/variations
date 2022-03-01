@@ -1,0 +1,45 @@
+em {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+strong {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    border: 1px solid rgba(0, 255, 255, 0);
+    color:rgb(37, 89, 158);
+      padding: 15
+      px;
+      margin: auto;
+     
+}
+
+body {background-color: rgb(101, 179, 224);}
+
+h1 {
+    text-shadow: 2px 2px #ffffffab;
+    color:#202d75 ;
+    padding: 15px;
+    font-size: x-large;
+    margin: auto;
+  }
+
+ 
+
+  h2 {
+      color: rgb(0, 0, 0);
+      padding: 15px;
+      font-size: small;
+      margin: auto;
+      
+
+  }
+  
+ em{
+     color: antiquewhite;
+     text-shadow: 2px 2px #9893b8ab;
+ }
+ 
