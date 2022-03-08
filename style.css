@@ -1,0 +1,35 @@
+
+h1{
+    font-size: 90px;
+    font-family: 'Archivo', sans-serif; 
+   color: antiquewhite;
+    text-align: left;
+    
+    
+}
+
+
+h2{
+    font-size: 14px;
+    color:rgba(255, 255, 255, 0.836);
+}
+
+p{
+    color:rgb(255, 255, 255);
+}
+
+
+a{
+    font-size:40px;
+    font-family: 'Archivo', sans-serif; 
+    line-height:80px;
+    color: white;
+}
+   
+
+body{
+    background-color: rgb(41, 76, 107);
+    
+    background-image: url("https://img2.woyaogexing.com/2019/10/07/3a5a638a0995407fa9c77f9468444110!1080x9999.jpeg");
+   
+}
